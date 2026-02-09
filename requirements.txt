@@ -1,0 +1,7 @@
+pykeyboard
+pyrogram
+python-dotenv
+pyromod==1.5
+redis
+TgCrypto
+pyrofork
